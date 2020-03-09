@@ -1,3 +1,18 @@
+## Counter React App
+*	Used functional component because the program required returning only a single react element
+*	Initialized the value to zero using useState(0)
+*	Used a simple arrow function to increment the existing value by 1
+
+
+### Instruction to run the application:
+
+*	Download the zip from the GitHub link
+*	Unzip the folder and change directory to ‘counter-react’
+*	Run `$npm install`
+*	Run `$npm start`
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
